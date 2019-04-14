@@ -1,5 +1,5 @@
 ﻿// ConsoleApplication3.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
+//kkk
 
 #include "pch.h"
 #include <iostream>
